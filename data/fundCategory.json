@@ -1,0 +1,33 @@
+[
+  {
+    "category": "Equity",
+    "funds": [
+      {
+        "fund_id": "DSP-123",
+        "fund_name": "Alpha Growth Fund"
+      },
+      {
+        "fund_id": "DSP-123",
+        "fund_name": "Delta Tax Saver Fund"
+      }
+    ]
+  },
+  {
+    "category": "Debt",
+    "funds": [
+      {
+        "fund_id": "QTF-456",
+        "fund_name": "Beta Income Fund"
+      }
+    ]
+  },
+  {
+    "category": "Hybrid",
+    "funds": [
+      {
+        "fund_id": "QTF-456",
+        "fund_name": "Gamma Balanced Fund"
+      }
+    ]
+  }
+]
