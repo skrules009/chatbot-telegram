@@ -1,0 +1,118 @@
+[
+  {
+    "id": "6681862f-1f1c-4c0f-9f02-4c94e9411455",
+    "data": [
+      {
+        "text": "31000",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0d87617-3344-4319-9fdf-abe6341a21a2",
+    "data": [
+      {
+        "text": "6700",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8aebd52-0902-4851-9e5b-f4d6990d0536",
+    "data": [
+      {
+        "text": "25000",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23ea5675-e044-4d63-923d-a776d6e50139",
+    "data": [
+      {
+        "text": "9000",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6fab416-ec71-45ff-a639-c305b611bd4d",
+    "data": [
+      {
+        "text": "200",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5091ad20-be95-436c-bfe7-0f1f512e3eb8",
+    "data": [
+      {
+        "text": "1000",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4d83bc1-061c-43a8-ab64-e5188753d958",
+    "data": [
+      {
+        "text": "3000",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a315269-6361-4647-b5b8-44998b4b5aba",
+    "data": [
+      {
+        "text": "I want to invest ₹15000",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

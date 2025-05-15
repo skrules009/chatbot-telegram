@@ -1,0 +1,40 @@
+{
+  "id": "673913b7-7faa-4006-bec6-22ff2d012133",
+  "parentId": "d8ab4c3a-fac8-470a-865a-3d26e1f1dc7e",
+  "rootParentId": "d8ab4c3a-fac8-470a-865a-3d26e1f1dc7e",
+  "name": "Date Period Validation Intent - no",
+  "auto": true,
+  "contexts": [
+    "DatePeriodValidationIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DatePeriodValidationIntent.DatePeriodValidationIntent-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you for using our services"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": "face582a-2dfa-4893-b0d6-a1bbab926dcc",
+  "name": "amount",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

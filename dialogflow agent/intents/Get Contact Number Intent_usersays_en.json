@@ -1,0 +1,112 @@
+[
+  {
+    "id": "3df2e29d-4888-4278-9a46-a229ed8f9638",
+    "data": [
+      {
+        "text": "Let me try again: ",
+        "userDefined": false
+      },
+      {
+        "text": "0123456789",
+        "meta": "@sys.phone-number",
+        "alias": "phone_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aaa91c87-037d-484d-8d6a-83d17874e5f8",
+    "data": [
+      {
+        "text": "It\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "12345",
+        "meta": "@sys.phone-number",
+        "alias": "phone_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfc502a6-0de2-44ea-8983-7ac7d7d50d45",
+    "data": [
+      {
+        "text": "My number is ",
+        "userDefined": false
+      },
+      {
+        "text": "9876543210",
+        "meta": "@sys.phone-number",
+        "alias": "phone_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3047ec2f-1e1f-444f-a456-a3d090747a98",
+    "data": [
+      {
+        "text": "5656565656",
+        "meta": "@sys.phone-number",
+        "alias": "phone_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4fb53303-99fd-4bef-b22e-5ea3e5da60db",
+    "data": [
+      {
+        "text": "It\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "9876543210",
+        "meta": "@sys.phone-number",
+        "alias": "phone_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b56783e-bb33-471b-9777-bfc833a1a568",
+    "data": [
+      {
+        "text": "My number is ",
+        "userDefined": false
+      },
+      {
+        "text": "1234567890",
+        "meta": "@sys.phone-number",
+        "alias": "phone_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

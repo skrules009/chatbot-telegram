@@ -1,0 +1,41 @@
+[
+  {
+    "id": "adb92f8a-20e2-4751-922c-ab54d8811601",
+    "data": [
+      {
+        "text": "Hybrid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32ac5078-1147-4a7c-931a-4542865a8590",
+    "data": [
+      {
+        "text": "Debt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31f4f6c4-09b9-4111-a4b7-4a77f23f1efc",
+    "data": [
+      {
+        "text": "Equity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

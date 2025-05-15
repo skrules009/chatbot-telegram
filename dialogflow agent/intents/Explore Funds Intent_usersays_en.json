@@ -1,0 +1,28 @@
+[
+  {
+    "id": "28894ef7-e030-43f8-a412-7dde95ebc87f",
+    "data": [
+      {
+        "text": "Yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24ba79ae-5b18-4ecb-9f56-d2abf9330f88",
+    "data": [
+      {
+        "text": "Explore Funds",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

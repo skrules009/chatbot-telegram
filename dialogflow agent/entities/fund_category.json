@@ -1,0 +1,9 @@
+{
+  "id": "fa5bd929-a06b-4884-813d-2ab530a2ef5d",
+  "name": "fund_category",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

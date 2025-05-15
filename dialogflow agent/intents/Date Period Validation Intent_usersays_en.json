@@ -1,0 +1,255 @@
+[
+  {
+    "id": "67ade5d3-7428-4656-bc91-3b51d588024f",
+    "data": [
+      {
+        "text": "6june",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6fba051-ef71-461f-8995-ac0bc86a0f37",
+    "data": [
+      {
+        "text": "6june2025",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ad5d42f-31f3-49d2-94b9-1b8482cf0d63",
+    "data": [
+      {
+        "text": "5 june",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f937e0a-2955-4a3b-b5a2-223adcbf703e",
+    "data": [
+      {
+        "text": "4th july",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "695fc9b8-8486-472a-8149-94b3e0b1709a",
+    "data": [
+      {
+        "text": "next month",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2eb5a948-0822-42b4-9ab3-352b677f75ce",
+    "data": [
+      {
+        "text": "last month",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01534870-a3b0-44e1-a787-afcccc62e3a4",
+    "data": [
+      {
+        "text": "1st aprial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e4db7b8-12c4-418a-bda1-47a6a385ddd4",
+    "data": [
+      {
+        "text": "1st apr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d873d96-7b07-4d5e-b753-2bbeb11975c4",
+    "data": [
+      {
+        "text": "1st march",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79bade8b-3042-426f-b8a1-4f8836934317",
+    "data": [
+      {
+        "text": "25 may",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96563e2d-de80-45b1-bc0c-7414e5a4b37a",
+    "data": [
+      {
+        "text": "25th ",
+        "userDefined": false
+      },
+      {
+        "text": "may",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28a80b10-11fb-446a-89f0-4e4f16ff1bca",
+    "data": [
+      {
+        "text": "01-04-2025 to 31-03-2026",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f62f7e94-a426-44d9-95b4-4373ef543d0a",
+    "data": [
+      {
+        "text": "last financial year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb6d8d47-f6a2-4c49-a3d5-ca656e42818e",
+    "data": [
+      {
+        "text": "last year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "140b9a65-21db-4605-a419-96af72d95142",
+    "data": [
+      {
+        "text": "this year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eee8e2e6-8818-4c17-88a8-9b9625ef9abb",
+    "data": [
+      {
+        "text": "current year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3952a875-4fdb-4624-bca2-c2770049d248",
+    "data": [
+      {
+        "text": "From 2024-04-01 to 2025-03-31",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a276f20-b255-47c2-b244-efae518a3d0d",
+    "data": [
+      {
+        "text": "Previous Financial Year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13ff3c7b-32b8-4d8b-8cb2-0cf52b3629a5",
+    "data": [
+      {
+        "text": "Current Financial Year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

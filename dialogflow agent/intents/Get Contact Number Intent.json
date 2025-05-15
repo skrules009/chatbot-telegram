@@ -1,0 +1,54 @@
+{
+  "id": "d67c34c0-446d-4c4f-ae7e-b21795fdda2e",
+  "name": "Get Contact Number Intent",
+  "auto": true,
+  "contexts": [
+    "asking-contact"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "awaiting_valid_phone",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "072e8abd-e5b8-474b-bd78-4e108fff436b",
+          "name": "phone_number",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "value": "$phone_number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

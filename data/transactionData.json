@@ -1,0 +1,78 @@
+[
+  {
+    "mobile": "5656565656",
+    "transactions": [
+      {
+        "date": "2023-04-01",
+        "amount": 5000,
+        "fund_Id": "DSP-123",
+        "fund_name": "Alpha Growth Fund"
+      },
+      {
+        "date": "2023-10-10",
+        "amount": 2000,
+        "fund_Id": "QTF-456",
+        "fund_name": "Beta Income Fund"
+      },
+      {
+        "date": "2024-06-06",
+        "amount": 2000,
+        "fund_Id": "DSP-123",
+        "fund_name": "Beta Income Fund"
+      },
+      {
+        "date": "2024-09-20",
+        "amount": 2000,
+        "fund_Id": "GMK-558",
+        "fund_name": "Beta Income Fund"
+      },
+      {
+        "date": "2024-12-24",
+        "amount": 2000,
+        "fund_Id": "QTF-456",
+        "fund_name": "Beta Income Fund"
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 2000,
+        "fund_Id": "DSP-123",
+        "fund_name": "Beta Income Fund"
+      }
+    ]
+  },
+  {
+    "mobile": "5656565651",
+    "transactions": [
+      {
+        "date": "2023-04-15",
+        "amount": 3500,
+        "fund_Id": "QTF-456",
+        "fund_name": "Gamma Balanced Fund"
+      },
+      {
+        "date": "2023-06-20",
+        "amount": 1000,
+        "fund_Id": "DSP-123",
+        "fund_name": "Delta Tax Saver Fund"
+      },
+      {
+        "date": "2024-09-18",
+        "amount": 2000,
+        "fund_Id": "GMK-558",
+        "fund_name": "Beta Income Fund"
+      },
+      {
+        "date": "2024-12-29",
+        "amount": 2000,
+        "fund_Id": "DSP-123",
+        "fund_name": "Beta Income Fund"
+      },
+      {
+        "date": "2024-04-04",
+        "amount": 2000,
+        "fund_Id": "GMK-558",
+        "fund_name": "Beta Income Fund"
+      }
+    ]
+  }
+]

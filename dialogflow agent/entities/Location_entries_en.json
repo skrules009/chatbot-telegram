@@ -1,0 +1,28 @@
+[
+  {
+    "value": "Delhi",
+    "synonyms": [
+      "Delhi",
+      "new delhi",
+      "ndls",
+      "old delhi",
+      "dls"
+    ]
+  },
+  {
+    "value": "mumbai",
+    "synonyms": [
+      "mumbai",
+      "bombay",
+      "mmct",
+      "maharastra"
+    ]
+  },
+  {
+    "value": "Kolkata",
+    "synonyms": [
+      "Kolkata",
+      "calcutta"
+    ]
+  }
+]

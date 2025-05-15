@@ -1,0 +1,54 @@
+[
+  {
+    "id": "473dbc92-6a09-4d70-95f2-f15135a7de29",
+    "data": [
+      {
+        "text": "Delta Tax Saver Fund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56d04343-b2f8-4f2f-86f4-7a45c72c5ecf",
+    "data": [
+      {
+        "text": "Gamma Balanced Fund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7c181b8-7347-4bf2-8714-a77a24d06196",
+    "data": [
+      {
+        "text": "Alpha Growth Fund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bec325b-cd83-48ee-b142-b51ad0f70820",
+    "data": [
+      {
+        "text": "Beta Income Fund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

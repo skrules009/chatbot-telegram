@@ -1,0 +1,106 @@
+[
+  {
+    "id": "c6747c1f-4d5f-484d-bd69-ad29601f6431",
+    "data": [
+      {
+        "text": "transactions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59f08575-1289-413c-854c-a638cc7017c6",
+    "data": [
+      {
+        "text": "valuation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62c52401-a0bc-4ade-ad65-ff659a64f6a2",
+    "data": [
+      {
+        "text": "show my transaction history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79ddc11c-5162-4f36-baa0-a19db0cd40cb",
+    "data": [
+      {
+        "text": "I want to check the valuation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65bfad60-96a8-4fdd-abf8-0b3355c9e5dc",
+    "data": [
+      {
+        "text": "Valuation please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c37ceee-5ef7-44c6-b91d-e9f565324e30",
+    "data": [
+      {
+        "text": "show my transaction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aee26e75-2ce9-4b16-b152-687e0cb41055",
+    "data": [
+      {
+        "text": "Transaction History",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35483b16-633a-4237-a064-c062e1a4dc78",
+    "data": [
+      {
+        "text": "Portfolio Valuation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

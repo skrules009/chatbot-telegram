@@ -1,0 +1,9 @@
+{
+  "id": "7dcacfc3-781c-4a2d-9f7d-8a2de1d6cf14",
+  "name": "portfolio_number",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
